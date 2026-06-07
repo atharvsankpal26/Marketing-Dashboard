@@ -56,6 +56,9 @@ SQL for data unification
 Power BI for dashboard creation
 Key Insight
 
+
+PREVIEW OF A dashboard:  https://github.com/atharvsankpal26/Marketing-Dashboard/blob/main/Marketing%20Dashboard.png
+
 # The dashboard enables comparison of marketing performance across channels, helping identify trends, campaign effectiveness, and optimization opportunities.
 
 
